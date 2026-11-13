@@ -21,4 +21,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
