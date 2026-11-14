@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0001-two-sum/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0020-valid-parentheses/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0412-fizz-buzz/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
