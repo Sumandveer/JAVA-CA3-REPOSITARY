@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0013-roman-to-integer/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0412-fizz-buzz/) | Easy |
 | [2235-add-two-integers](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/2235-add-two-integers/) | Easy |
+| [2469-convert-the-temperature](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/2469-convert-the-temperature/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
