@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0013-roman-to-integer/) | Easy |
+| [0043-multiply-strings](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0050-powx-n/) | Medium |
 | [0412-fizz-buzz](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0412-fizz-buzz/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0020-valid-parentheses/) | Easy |
+| [0043-multiply-strings](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0043-multiply-strings/) | Medium |
 | [0412-fizz-buzz](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0412-fizz-buzz/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Stack
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0043-multiply-strings/) | Medium |
 | [0412-fizz-buzz](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0412-fizz-buzz/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
