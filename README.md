@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0020-valid-parentheses/) | Easy |
 | [0043-multiply-strings](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0043-multiply-strings/) | Medium |
+| [0065-valid-number](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0065-valid-number/) | Hard |
 | [0412-fizz-buzz](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0412-fizz-buzz/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Stack
