@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0041-first-missing-positive/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0013-roman-to-integer/) | Easy |
+| [0041-first-missing-positive](https://github.com/Sumandveer/JAVA-CA3-REPOSITARY/tree/main/0041-first-missing-positive/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
